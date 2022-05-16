@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdul-hadi-404/render-deploy.git"
+    "url": "git+https://github.com/muhammad-usman-outlier/render-deploy.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "Abdul Hadi",
+  "author": "Outlier",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.6.0",
