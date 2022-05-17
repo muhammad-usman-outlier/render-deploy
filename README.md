@@ -47,7 +47,7 @@ jobs:
     steps:
       - name: Render Deploy Action
         id: render-deploy
-        uses: muhammad-usman-outlier/render-deploy@v1.1
+        uses: muhammad-usman-outlier/render-deploy@v1
         with: 
             token:
             render-email:
